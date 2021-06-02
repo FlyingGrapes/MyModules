@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="modCode1">C346 Android Programming</string>
+    <string name="modCode2">C203 Web Development in php</string>
+    <string name="modCode3">C328 Operating Systems Security</string>
+    <string name="button">Go Back</string>
+</resources>
